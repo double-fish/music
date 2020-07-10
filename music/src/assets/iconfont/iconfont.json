@@ -1,0 +1,37 @@
+{
+  "id": "1874718",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "168387",
+      "name": "用户",
+      "font_class": "icon011",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4247105",
+      "name": "pioneicon_音乐内容",
+      "font_class": "pioneicon_yinleneirong",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "7385554",
+      "name": "audio,music,音乐",
+      "font_class": "audio",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15252726",
+      "name": "密 码",
+      "font_class": "mima",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    }
+  ]
+}
